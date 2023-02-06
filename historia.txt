@@ -2,4 +2,8 @@ Este es mi primer proyecto de Git en el entrenamiento de Platzi
 
 Hasta ahora comenzamos muy bien
 
-Vamos progresando en el 16% de mi objetivo
+Vamos progresando en el 18% de mi objetivo
+
+1 curso terminado hasta ahora
+
+avanzando en linea de comandos y Git
