@@ -1,1 +1,1 @@
-Punto de control para hacer lab de ramas en Git
+Punto de control para hacer lab de ramas en Git.
